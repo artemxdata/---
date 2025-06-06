@@ -1,25 +1,28 @@
 # ---
-Описание проекта:
+Project Description:
 
-Индустрия компьютерных игр остаётся одной из самых динамично развивающихся в мире. Для интернет-магазина «Стримчик», работающего на глобальном рынке, важно уметь выявлять закономерности, определяющие успех игр, чтобы формировать эффективные продуктовые стратегии и рекламные кампании. В распоряжении находятся исторические данные о продажах, оценках пользователей и критиков, жанрах и платформах. Эти данные позволят построить модель оценки перспективности игр.
+The computer gaming industry remains one of the most dynamically evolving sectors globally. For the online store "Streamchik," operating in this competitive market, it is crucial to identify patterns that determine a game's success to develop effective product strategies and marketing campaigns. The available dataset includes historical sales data, user and critic ratings, genres, and platforms. This data will be used to build a model for assessing game potential.
 
-Цель исследования: Анализ факторов, влияющих на успешность видеоигр, и выявление закономерностей, позволяющих прогнозировать продажи в 2017 году. Основное внимание будет уделено анализу актуальных платформ, жанров, отзывов и региональных предпочтений.
+Research Objective: Analyze the factors influencing video game success and identify patterns to forecast 2017 sales. The focus will be on examining relevant platforms, genres, reviews, and regional preferences.
 
-Ход исследования:
+Research Steps:
 
-- Загрузка данных
-- Предобработка данных
-- Исследовательский анализ данных
-- Портрет пользователя по регионам
-- Проверка гипотез
+- Data loading
+- Data preprocessing
+- Exploratory data analysis (EDA)
+- User profiling by region
+- Hypothesis testing
 
-Общий вывод Анализ позволит выявить ключевые факторы, влияющие на успех видеоигр: платформу, жанр, оценки критиков и пользователей, региональные особенности и возрастной рейтинг. Особое внимание будет уделено определению наиболее перспективных платформ и жанров, которые помогут сформировать эффективную стратегию на 2017 год. Также будет проведена проверка статистических гипотез, результаты которой станут основой для обоснованных управленческих решений.
+Key Insights:
 
-В ходе исследования планируется:
+The analysis will reveal critical success factors, including platform, genre, critic and user ratings, regional trends, and age ratings. Special attention will be given to identifying the most promising platforms and genres to shape an effective 2017 strategy. Statistical hypothesis testing will provide a data-driven foundation for managerial decisions.
 
-1. Определить платформы с устойчивыми или растущими продажами;
-2. Изучить жанровые предпочтения в разных регионах мира;
-3. Проанализировать влияние пользовательских и критических оценок на объёмы продаж;
-4. Проверить гипотезы о различиях в восприятии игр по платформам и жанрам; 5.Подготовить практические 5. рекомендации для продвижения игр и формирования ассортимента.
+Research Goals:
 
-Полученные результаты помогут интернет-магазину «Стримчик» более точно прогнозировать успех новых релизов и эффективно распределять ресурсы на маркетинг и продвижение.
+1. Identify platforms with stable or growing sales.
+2. Analyze genre preferences across different global regions.
+3. Assess the impact of user and critic reviews on sales performance.
+4. Test hypotheses regarding differences in game reception across platforms and genres.
+5. Provide actionable recommendations for game promotion and inventory planning.
+
+The findings will enable Streamchik to better predict the success of new releases and optimize resource allocation for marketing and sales efforts.
