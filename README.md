@@ -1,4 +1,4 @@
-# ---
+# Data Analysis for Streamchik Online Gaming Store
 Project Description:
 
 The computer gaming industry remains one of the most dynamically evolving sectors globally. For the online store "Streamchik," operating in this competitive market, it is crucial to identify patterns that determine a game's success to develop effective product strategies and marketing campaigns. The available dataset includes historical sales data, user and critic ratings, genres, and platforms. This data will be used to build a model for assessing game potential.
